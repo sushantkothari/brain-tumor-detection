@@ -18,6 +18,7 @@ No installation is required! Simply clone the repository and open the HTML file 
 ```
 git clone https://github.com/sushantkothari/brain-tumor-detection.git
 Navigate to the project directory and open the index.html file in your web browser.
+or  you can always visit https://sushantkothari.github.io/brain-tumor-detection/ 
 ```
 ### Usage
 Navigate to the web interface.
